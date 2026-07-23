@@ -59,13 +59,6 @@ venv\Scripts\activate
 python -m venv venv
 source venv/bin/activate
 ```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🔑 Environment Variables
@@ -81,7 +74,7 @@ OPENAI_API_KEY=your_openai_api_key
 ## ▶️ Run the Project
 
 ```bash
-python app.py
+python with_structured_output_typedDict.py
 ```
 
 ---
