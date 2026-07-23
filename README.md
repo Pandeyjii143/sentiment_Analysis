@@ -29,9 +29,7 @@ A simple and efficient **Sentiment Analysis** application built using **LangChai
 
 ```text
 Sentiment-Analysis/
-│── app.py
-│── requirements.txt
-│── .env
+│── with_structured_output_typedDict.py
 │── README.md
 ```
 
